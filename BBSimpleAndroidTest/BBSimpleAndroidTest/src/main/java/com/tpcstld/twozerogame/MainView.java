@@ -466,7 +466,7 @@ public class MainView extends View {
         cellRectangleIds[8] = R.drawable.cell_rectangle_256;
         cellRectangleIds[9] = R.drawable.cell_rectangle_512;
         cellRectangleIds[10] = R.drawable.cell_rectangle_1024;
-        cellRectangleIds[11] = R.drawable.cell_rectangle_BBSimpleAndroidTest;
+        cellRectangleIds[11] = R.drawable.cell_rectangle_2048;
         for (int xx = 12; xx < cellRectangleIds.length; xx++) {
             cellRectangleIds[xx] = R.drawable.cell_rectangle_4096;
         }
